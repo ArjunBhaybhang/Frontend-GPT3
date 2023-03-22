@@ -13,7 +13,7 @@ const Header = () => {
         </h1>
 
         <p>
-          As easy as playing a game but extremly powerful, we help you build application with the amazing GPT-3. Why wait give it a try. There are tones of options to explore. Get as creative as you can. Take a look at some of the projects our community have built.
+          As easy as playing a game but extremly powerful, we help you build application with the amazing GPT-3. There are tones of options to explore. Get as creative as you can. Take a look at some of the projects our community have built.
         </p>
 
         <div className='gpt3__header-content__input'>
