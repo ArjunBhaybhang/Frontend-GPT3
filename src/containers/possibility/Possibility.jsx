@@ -15,7 +15,7 @@ const Possibility = () => {
           The possibilities are beyond your imagination
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.
+        We think there are still many new capabilities of GPT-3 yet to be discovered and we want you to help us uncover them! In a similar spirit to our previous Requests for Research and Y Combinator’s Requests for Startups, we’d love to see our current and future developers push the limits of what’s possible with GPT-3 and build new applications
         </p>
         <h4>
           Request Early Access to Get Started
