@@ -1,10 +1,12 @@
 # A modern web app that is super responsive and looks gorgeous on all screen sizes!
-<img width="928" alt="GPT fontend" src="https://user-images.githubusercontent.com/66169198/226877654-9f82543a-1049-4eff-8413-4ef884d5da8b.png">
+![Forntend GPT 1](https://user-images.githubusercontent.com/66169198/226883707-0377c371-d081-40ab-998b-9f3347528e7f.png)
 
-<img width="946" alt="GPT fontend 2" src="https://user-images.githubusercontent.com/66169198/226879542-87af686d-cb00-4e39-8e39-d0c630b31982.png">
+![Forntend GPT 2](https://user-images.githubusercontent.com/66169198/226883820-8197313f-7593-4a2b-8300-e25345196455.png)
 
-<img width="947" alt="GPT fontend 3" src="https://user-images.githubusercontent.com/66169198/226879705-0965b163-b6c1-41dc-b1f9-f33d6b499e18.png">
+![Forntend GPT 3](https://user-images.githubusercontent.com/66169198/226886437-fbc3a3bb-f28c-4260-8614-4078f064c9a7.png)
 
-<img width="947" alt="GPT fontend 4" src="https://user-images.githubusercontent.com/66169198/226879809-9f53cdf1-3829-4a60-99b3-56a4d2819762.png">
+![Forntend GPT 4](https://user-images.githubusercontent.com/66169198/226883948-ae7d1034-4d9e-4222-a131-8103e86fc0bd.png)
 
-<img width="947" alt="GPT fontend 5" src="https://user-images.githubusercontent.com/66169198/226879925-63329b47-f3aa-4ef0-97bf-3d5ac30131e7.png">
+![Forntend GPT 5](https://user-images.githubusercontent.com/66169198/226884034-1321d663-51f2-442b-a78a-4794114a4d5d.png)
+
+![Forntend GPT 6](https://user-images.githubusercontent.com/66169198/226884095-ba54ef49-1f16-47ab-a037-cda74ef60811.png)
