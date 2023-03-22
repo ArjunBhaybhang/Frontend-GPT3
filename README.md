@@ -1,3 +1,6 @@
+A modern web app that is super responsive and looks gorgious on all screen sizes!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
